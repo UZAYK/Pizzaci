@@ -1,0 +1,10 @@
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe.config
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\bin\Debug\Pizzacı.pdb
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csprojAssemblyReference.cache
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Form1.resources
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Properties.Resources.resources
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.GenerateResource.cache
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.CoreCompileInputs.cache
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.exe
+C:\Users\uzayk\OneDrive\Masaüstü\C#çalışmalar\Pizzacı\Pizzacı\obj\Debug\Pizzacı.pdb
